@@ -1,2 +1,3 @@
 # hello-world
 WRITE A sHORTd ESRIPTION OUI
+A BITE ABOUT YOOURSELF: C'est dur
