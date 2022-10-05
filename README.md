@@ -1,3 +1,4 @@
 # hello-world
-WRITE A sHORTd ESRIPTION OUI
-A BITE ABOUT YOOURSELF: C'est dur
+WRITE A sHORT dESRIPTION OUI
+A BITE ABOUT YOURSELF: C'est dur
+C'est plutôt sympa en soi
